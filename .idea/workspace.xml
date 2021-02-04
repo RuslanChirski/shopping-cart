@@ -2,112 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70be1aa7-90b0-41f1-ad82-29e31ba4f500" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/re-store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0c6898f81f4a21b15913ed847ae961f9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0fd120cd707e6f8b43b7bdf516a20870.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1218926acbc364e88967c0910c391131.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/19a5c6d8c4cdc235c219f8bdda128c16.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a4fa6e5c984b87c5091851c710b6af7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1ba3a7d71ac3f78d5eed4c7f068b7d2b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1d8fa75f294ac608805fcb08a449b449.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1d92c8115fc316dc10c069d474ffb711.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1e593cf77b33b71c66ec8191b1fc97d3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/210f60e239221df6ffa52451be429ffb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26d3b8171387eed43e720724ab87454a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26d801a42cec664eafafa78c25c81837.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2aba661985298e6a6d97bb78a50be037.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2fa63d8384d4dedbd20b967818a78506.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36b2c6f0c8ec4c255d64b9f6778345de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3887b0ab1533142bfbc5da98363530f5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/38ba3896877a9db1d6de51f7d47a6978.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3cba6d353807c69e9fd6b1cf29da0e15.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3f574cd4bba48b6ad1c9bd8203e51550.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/407d84caa5d3bc17a45a12e5162016d7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/45e21de581a6722657594272aecfdf1f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/479fe8efc3714f895fd77c92ef0a25fd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4c3b4eef5bbac780ae021633825a7d01.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4d561030d1f630d8160ad442639381ff.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4df7d1370441d31524e6b2c11b8041ec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4e722eea9b4a1b4ea8dcd5419958faa9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4eab4881aae155e7160a3a5969baabf5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4ec7609ad0db70c87a544d29ebe3bc9f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/502792d8d4c32d1403afd7750391040a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/50fbd488ea86a322e9fcb5c57a453a69.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/516343ae6378d93f2bde8eb8aab0278e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/55113729a763732b9e99c87898740a4a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/566204ef22d8cae52b58605d01d4830f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/56ca56a88ca4efa8b75d30ac88689c43.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5c6ff6085be42cf8b993dc4ca432ba32.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5ee88f7a2b645635af0d50eff5ed59f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5fd76b16f6c80e46ef4895851a2cf680.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/63db728a6f18c7822cff7435ffc3d881.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6756917bce87c9afa49db149574f337f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/69983a88603f23f9df3ec1b0cea626e1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6af288a70b4aea333cb4edacc4f2f446.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6c7662d2d9178be54bb6fb80b6fea20c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6c7bf2ee5a7ed0febda2dbf3eeb80d6a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6d37e04887f9ec146e8d1cdf36b54b91.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6e71a24b42b91363f3b6f914b0e17892.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/73023cc81a03407a85f46937ff7cb71a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/769984ea6cc58aee1a3df2c32b9040ae.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/799b3ff5030eb6df5657c7999fc5b25f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/80ec8ac893e104b33836a86122dbfa35.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/85712a0f59205b740a07ab025e301d39.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/85af1180e08be771b2a63d916d678ce2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/86e432d1ad68a26da28d4b7288869a8c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8b269d6d4bb9eddce2d5e97c764176e7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9068f82d9000f93ef94de51fddc32f73.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/93e47dbcae06e50e45e09ef3c0e6eacf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9bc052f7d44d5b9d10f280f3bfef837b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9cab5befcca101b4321801bd32d61836.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d0e964bd66d42147c8ad363cf11eeab.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9fd1162a25e76ec686a54ed948602d90.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a05b856f31573f7cbf88863804ba8035.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a6b8e3aec1d8ee9c457a11d57a695935.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a7cc0ebe1c15a8ad57a661a4e0bc8961.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/af78af3ec6c6d3609fc79aeb58f31100.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aff6f34aeaee0bfe604e878da158d62d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b1a0f266b8c01da8380ec6a1cfc4bc7d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b27977d9f51a2f79f6e50b7e1e108037.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c039873891f14455233cd0d6fbebf5de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c043d7f22ed7dbe1f3650ebb6be093a6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c4677d58b966daecaebf3d8f1b8d8462.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cc60d3a57fe5dc6624aabf767df4da6d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cd85dee4e083dabbb9efb406ba7f496a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d962cb856679169792fbd6c39bbb432b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d96d497cb50f947345764794e2b7de42.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dac31737c04ba29f74a6434f43ca011a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dd7fdaa0dd3684d3ada944bf44250314.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/df68af2eff49eae67d05902aba1c54bb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e27e175a1cfa842abead030590ce90c6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e3eb1e31963facb61c868bac188bac44.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e5afcdbe67243a4fc0f7f3fdb2e3bf02.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e5e216b330ebace1317e8bfab7e50771.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e7d6257ba6f3c04b99b7cecf667d5280.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f415908fe39039d3ff828cd02fdb4d6e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f66b033b30619e58240d5c668ba241e8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f9943d1141517975a7dfa385a6b32739.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fcd0fc68bf7749e8fc973132d8bb78c7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fdf3110274b7b8ea590c5cc6b379a03f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/bookstore-service-context/bookstore-service-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/bookstore-service-context/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-boundary/error-boundary.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-boundary/error-boundary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-boundary/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-indicator/error-indicator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-indicator/error-indicator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/error-indicator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list-item/book-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list-item/book-list-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list/book-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list/book-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/book-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/containers/book-list-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/card-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/main-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shopping-cart-table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/prop-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/BrowserRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/BrowserRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/HashRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/HashRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/MemoryRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/MemoryRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/NavLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/NavLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Prompt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Prompt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Redirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/StaticRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/StaticRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/Switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/Switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/BrowserRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/BrowserRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/HashRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/HashRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/MemoryRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/MemoryRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/NavLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/NavLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Prompt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Prompt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Redirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/RouterContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/StaticRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/StaticRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/Switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/Switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/generatePath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/generatePath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/matchPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/matchPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/es/withRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/es/withRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/generatePath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/generatePath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/matchPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/matchPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/withRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/withRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/MemoryRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/MemoryRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/Prompt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/Prompt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/Redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/Redirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/Route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/StaticRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/StaticRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/Switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/Switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/MemoryRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/MemoryRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/Prompt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/Prompt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/Redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/Redirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/Route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/RouterContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/StaticRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/StaticRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/Switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/Switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/generatePath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/generatePath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/matchPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/matchPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/es/withRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/es/withRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/generatePath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/generatePath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/matchPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/matchPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/node_modules/hoist-non-react-statics/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/withRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/withRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tiny-invariant/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tiny-invariant/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tiny-warning/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tiny-warning/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/warning/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/warning/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/warning/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/warning/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/warning/warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc/with-bookstore-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc/with-bookstore-context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinner/spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinner/spinner.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +131,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -137,6 +141,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -145,7 +154,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612035113057</updated>
-      <workItem from="1612035118033" duration="5077000" />
+      <workItem from="1612035118033" duration="6048000" />
+      <workItem from="1612108079174" duration="4233000" />
+      <workItem from="1612130076656" duration="1247000" />
+      <workItem from="1612132264468" duration="446000" />
+      <workItem from="1612171433175" duration="15048000" />
+      <workItem from="1612296348693" duration="6421000" />
+      <workItem from="1612346478403" duration="12964000" />
+      <workItem from="1612435590501" duration="309000" />
     </task>
     <servers />
   </component>
@@ -162,5 +178,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

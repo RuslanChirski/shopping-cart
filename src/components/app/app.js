@@ -1,17 +1,26 @@
 import React from 'react';
-import Spinner from "../spinner";
-import ErrorBoundary from "../error-boundary";
-import {BookstoreServiceProvider} from '../bookstore-service-context'
 import './app.css';
+import { Switch, Route } from 'react-router-dom';
+import {CartPage, MainPage} from "../pages";
+import Header from "../header";
 
 const App = () => {
   return (
-    <ErrorBoundary>
-      <BookstoreServiceProvider value='10'>
-        <h1>Hello world</h1>
-      </BookstoreServiceProvider>
-    </ErrorBoundary>
+    <main role='main' className='container'>
+      <Header numItems={5} total={126}/>
+      <Switch>
+        <Route path='/' exact>
+          <MainPage />
+        </Route>
+        <Route path='/cart'>
+          <CartPage />
+        </Route>
+        <Route path='*'>
+          <h1>This page is not found</h1>
+        </Route>
+      </Switch>
+  </main>
   )
 }
 
-export default App;
+export default (App);
