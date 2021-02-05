@@ -1,15 +1,17 @@
 import React from 'react';
 import {connect} from 'react-redux';
+import { bindActionCreators } from "redux";
+import {}
 import './shopping-cart-table.css';
 
 const ShoppingCartTable = (props) => {
   const {items, total, onIncrease, onDecrease, onDelete} = props;
   const renderRow = (item, idx) => {
-    const {id, name, count, total} = item;
+    const {id, title, count, total} = item;
     return (
       <tr key={id}>
         <td className='align-middle'>{ idx + 1 }</td>
-        <td className='align-middle'>{ name }</td>
+        <td className='align-middle'>{ title }</td>
         <td className='align-middle'>{ count }</td>
         <td className='align-middle'>{ total }</td>
         <td className='align-middle'>
@@ -59,7 +61,7 @@ const mapStateToProps = ({cartItems, orderTotal}) => {
   }
 }
 
-const mapDispatchToProps = () => {
+const mapDispatchToProps = (dispatch) => {
   return {
     onIncrease: (id) => console.log(`Increase ${id}`),
     onDecrease: (id) => console.log(`Decrease ${id}`),
