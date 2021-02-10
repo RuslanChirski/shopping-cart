@@ -2,6 +2,7 @@ import React from 'react';
 import './header.css';
 import PropTypes from 'prop-types';
 import {Link} from "react-router-dom";
+import {connect } from 'react-redux';
 
 const Header = ({numItems, total}) => {
   return (
@@ -24,4 +25,11 @@ Header.propTypes = {
   total: PropTypes.number,
 }
 
-export default Header;
+const mapStateToProps = ({shoppingCart}) => {
+  return {
+    numItems: shoppingCart.cartItems.reduce((acc, item) => acc + item.count, 0),
+    total: shoppingCart.orderTotal,
+  }
+}
+
+export default connect(mapStateToProps)(Header);

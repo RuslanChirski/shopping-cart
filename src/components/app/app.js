@@ -7,7 +7,7 @@ import Header from "../header";
 const App = () => {
   return (
     <main role='main' className='container'>
-      <Header numItems={5} total={126}/>
+      <Header total={126}/>
       <Switch>
         <Route path='/' exact>
           <MainPage />

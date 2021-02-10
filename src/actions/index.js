@@ -8,9 +8,13 @@ const fetchBooks = (dispatch, service) => () => {
       .then((data) => dispatch(booksLoaded(data)))
       .catch((error) => dispatch(booksError(error)))
 };
-const addToCart = (bookId) => ({type: 'ADD_BOOK_TO_CART', payload: bookId});
+const addBookToCart = (bookId) => ({type: 'ADD_BOOK_TO_CART', payload: bookId});
+const removeBookFromCart = (bookId) => ({type: 'REMOVE_BOOK_FROM_CART', payload: bookId});
+const removeAllBooksFromCart = (bookId) => ({type: 'REMOVE_ALL_BOOKS_FROM_CART', payload: bookId});
 
 export {
   fetchBooks,
-  addToCart,
+  addBookToCart,
+  removeBookFromCart,
+  removeAllBooksFromCart,
 };

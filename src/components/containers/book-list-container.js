@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { connect } from 'react-redux';
 import { withBookstoreService } from '../hoc'
-import { fetchBooks, addToCart } from '../../actions';
+import { fetchBooks, addBookToCart } from '../../actions';
 import {compose} from '../../utils';
 import PropTypes from 'prop-types';
 import Spinner from "../spinner";
@@ -40,18 +40,18 @@ BookListContainer.propTypes = {
   loading: PropTypes.bool.isRequired
 }
 
-const mapStateToProps = ({books, loading, error}) => {
+const mapStateToProps = ({bookList: {books, loading, error}}) => {
   return {
     books,
     loading,
     error
   }
 }
-
+// const mapDispatchToProps = (dispatch, ownProps)
 const mapDispatchToProps = (dispatch, {bookstoreService}) => {
   return {
     fetchBooks: fetchBooks(dispatch, bookstoreService),
-    addBookToCart: (bookId) => dispatch(addToCart(bookId))
+    addBookToCart: (bookId) => dispatch(addBookToCart(bookId))
   }
 }
 

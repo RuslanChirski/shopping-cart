@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70be1aa7-90b0-41f1-ad82-29e31ba4f500" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reducers/book-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/shopping-cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/containers/book-list-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/containers/book-list-container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
@@ -54,7 +60,10 @@
       <workItem from="1612171433175" duration="15048000" />
       <workItem from="1612296348693" duration="6421000" />
       <workItem from="1612346478403" duration="12964000" />
-      <workItem from="1612435590501" duration="10350000" />
+      <workItem from="1612435590501" duration="21083000" />
+      <workItem from="1612549098957" duration="3921000" />
+      <workItem from="1612606566558" duration="39000" />
+      <workItem from="1612725596412" duration="73000" />
     </task>
     <servers />
   </component>
